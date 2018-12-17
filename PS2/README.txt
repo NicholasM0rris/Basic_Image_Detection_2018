@@ -1,11 +1,18 @@
+
+
+
 Hey.
 
-This was designed for simple environments
+This was designed for simple environments. It achieved 100% of marks in simple environments.
 
 Each of part B is separated into its own folder. Add all images you want (AND NO MORE OR LESS - preferably 25) to the same location 
 as the python file and simply run the python file. It will check all images with PNG <- PNG and PNG only no JPG etc
 and write new images in the same folder completeing the task. In each folder is a results folder for all 25 simple images already
 detected.
+
+The functionality includes dectecting cards, determining their pixel location, their pose in XY and the distance between the cards. The results that the program was designed for can be found in the Results folder
+
+
 
 Libraries required:
 
