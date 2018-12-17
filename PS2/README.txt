@@ -1,6 +1,6 @@
 Hey.
 
-MADE FOR SIMPLE:
+This was designed for simple environments
 
 Each of part B is separated into its own folder. Add all images you want (AND NO MORE OR LESS - preferably 25) to the same location 
 as the python file and simply run the python file. It will check all images with PNG <- PNG and PNG only no JPG etc
@@ -28,4 +28,4 @@ py -3.7 -m pip install opencv-python
 py -3.7 -m pip install numpy
 py -3.7 -m pip install imutils
 
-That covers everything have fun
+That covers everything have fun:)
